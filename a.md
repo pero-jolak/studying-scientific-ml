@@ -1,6 +1,6 @@
 Derivation of the Heat Equation Solution Using Separation of Variables
 We solve the one-dimensional heat equation:
-$$ \frac{\partial u}{\partial t} = k \frac{\partial^2 u}{\partial x^2}, $$
+$$\frac{\partial u}{\partial t} = k \frac{\partial^2 u}{\partial x^2},$$
 with initial condition $u(x,0) = f(x)$, and boundary conditions $u(0,t) = u(L,t) = 0$, where $L$ is the length of the rod and $k$ is the thermal diffusivity.
 Separation of Variables
 Assume a solution of the form:
