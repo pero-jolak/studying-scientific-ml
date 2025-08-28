@@ -12,9 +12,13 @@ $$\frac{T'(t)}{k T(t)} = \frac{X''(x)}{X(x)}.$$
 Since the left side depends only on $t$ and the right side only on $x$, both must equal a constant, say $-\lambda$:
 $$\frac{T'(t)}{k T(t)} = \frac{X''(x)}{X(x)} = -\lambda.$$
 This gives two ordinary differential equations (ODEs):
+
 Spatial ODE:
+
 $$X''(x) + \lambda X(x) = 0,$$
+
 Temporal ODE:
+
 $$T'(t) + \lambda k T(t) = 0.$$
 The negative sign for $\lambda$ is chosen for convenience, as the boundary conditions suggest positive eigenvalues.
 Applying Boundary Conditions
