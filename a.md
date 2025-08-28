@@ -1,14 +1,22 @@
 Derivation of the Heat Equation Solution Using Separation of Variables
 We solve the one-dimensional heat equation:
+
 $$\frac{\partial u}{\partial t} = k \frac{\partial^2 u}{\partial x^2},$$
+
 with initial condition $u(x,0) = f(x)$, and boundary conditions $u(0,t) = u(L,t) = 0$, where $L$ is the length of the rod and $k$ is the thermal diffusivity.
 Separation of Variables
 Assume a solution of the form:
+
 $$u(x,t) = X(x)T(t).$$
+
 Substitute into the heat equation:
+
 $$X(x)T'(t) = k X''(x)T(t).$$
+
 Divide through by $X(x)T(t)$ (assuming $X(x)T(t) \neq 0$):
+
 $$\frac{T'(t)}{k T(t)} = \frac{X''(x)}{X(x)}.$$
+
 Since the left side depends only on $t$ and the right side only on $x$, both must equal a constant, say $-\lambda$:
 $$\frac{T'(t)}{k T(t)} = \frac{X''(x)}{X(x)} = -\lambda.$$
 This gives two ordinary differential equations (ODEs):
@@ -20,6 +28,7 @@ $$X''(x) + \lambda X(x) = 0,$$
 Temporal ODE:
 
 $$T'(t) + \lambda k T(t) = 0.$$
+
 The negative sign for $\lambda$ is chosen for convenience, as the boundary conditions suggest positive eigenvalues.
 Applying Boundary Conditions
 The boundary conditions are:
