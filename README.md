@@ -18,4 +18,10 @@ Solving the heat equation:
 - Numerically: Crank-Nicolson finite difference method.
 - Physics-informed neural network.
 
+### Laplace's equation
+
+### Poisson's equation
+
+### Wave equation
+
 ## Sparse identification of non-linear dynamics (SINDy)
