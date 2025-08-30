@@ -27,3 +27,10 @@ Solving the heat equation:
 ### Wave equation
 
 ## Sparse identification of non-linear dynamics (SINDy)
+
+
+## Resources
+
+### PDEs:
+
+-  
