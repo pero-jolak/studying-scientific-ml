@@ -14,7 +14,7 @@ In order to build stronger understanding, for each PDE I do the following:
 ### Heat equation
 
 Solving the heat equation:
-- Analytically: [separation of variables](Partial Differential Equations (PDEs)/Heat equation/heat_eq_analyic.pdf) and Fourier transform.
+- Analytically: [separation of variables](Partial differential equations (PDEs)/Heat equation/heat_eq_analytic.pdf) and Fourier transform.
 - Numerically: Crank-Nicolson finite difference method.
 - Physics-informed neural network.
 
