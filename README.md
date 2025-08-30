@@ -16,7 +16,9 @@ In order to build stronger understanding, for each PDE I do the following:
 Solving the heat equation:
 - Analytically: [separation of variables](https://github.com/pero-jolak/studying-scientific-ml/blob/main/Partial%20differential%20equations%20(PDEs)/Heat%20equation/heat_eq_analytic.pdf) and Fourier transform.
 - Numerically: [Crank-Nicolson](https://github.com/pero-jolak/studying-scientific-ml/blob/main/Partial%20differential%20equations%20(PDEs)/Heat%20equation/Crank-Nicolson-derivation.pdf) finite difference method.
-- Physics-informed neural network.
+- Physics-informed neural network (PINN):
+  - Classic PINN (with residual loss and data loss from BCs and ICs)
+  - 
 
 ### Laplace's equation
 
