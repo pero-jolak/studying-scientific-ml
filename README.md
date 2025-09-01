@@ -10,9 +10,6 @@ In this part I implement two iterative methods for solving large, sparse systems
 
 ### Generalized minimal residual method (GMRES)
 
-## Neural ODEs
-
-## Neural SDEs
 
 ## Partial differential equations (PDEs)
 
@@ -35,6 +32,10 @@ Solving the 1-D Heat equation:
 ### Poisson's equation
 
 ### Wave equation
+
+## Neural ODEs
+
+## Neural SDEs
 
 ## Sparse identification of non-linear dynamics (SINDy)
 
