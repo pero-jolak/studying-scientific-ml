@@ -12,7 +12,7 @@ In this repository I share my learning process of scientific machine learning.
 
 In order to build stronger understanding, for each PDE I do the following:
 
-- Derive solution(s) to a particular PDE with a known method;
+- Derive solution(s) to a particular PDE with a known method (separation of variables, Fourier transform, Laplace transform, etc.);
 - Use a numerical algorithm (Finite difference or Finite element) to approximate the solution.
 - Use a modern technique (Physics-informed Neural Networks or operator based method).
 
