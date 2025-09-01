@@ -4,7 +4,7 @@ In this repository I share my learning process of scientific machine learning.
 
 ## Numerical linear algebra
 
-In these part I implement two iterative methods for solving large, sparse systems of linear equations which are typically encountered in solving engineering problems involving partial differential equations.
+In this part I implement two iterative methods for solving large, sparse systems of linear equations which are typically encountered in solving engineering problems involving partial differential equations.
 
 ### Conjugate gradient method (CG)
 
