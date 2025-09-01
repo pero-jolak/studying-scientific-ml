@@ -37,6 +37,8 @@ Solving the 1-D Heat equation:
 
 ## Neural SDEs
 
+## Operator learning
+
 ## Sparse identification of non-linear dynamics (SINDy)
 
 
