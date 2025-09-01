@@ -2,6 +2,11 @@
 
 In this repository I share my learning process of scientific machine learning.
 
+## Numerical linear algebra
+
+## Neural ODEs
+
+## Neural SDEs
 
 ## Partial differential equations (PDEs)
 
