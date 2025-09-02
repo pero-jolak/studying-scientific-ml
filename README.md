@@ -8,6 +8,9 @@ In this part I implement two iterative methods for solving large, sparse systems
 
 ### Conjugate gradient method (CG)
 
+- [Basics]() of the conjugate gradient method
+- Python implementation of the CG method from scratch, compared at the end with the SciPy implementation.
+
 ### Generalized minimal residual method (GMRES)
 
 
