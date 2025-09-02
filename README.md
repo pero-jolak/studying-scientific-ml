@@ -8,7 +8,7 @@ In this part I implement two iterative methods for solving large, sparse systems
 
 ### Conjugate gradient method (CG)
 
-- [Basics](https://github.com/pero-jolak/studying-scientific-ml/blob/main/Numerical%20linear%20algebra/Conjugate%20gradient%20method/Conjugate%20gradient%20method.pdf) of the conjugate gradient method
+- [Basics](https://github.com/pero-jolak/studying-scientific-ml/blob/main/Numerical%20linear%20algebra/Conjugate%20gradient%20method/Conjugate%20gradient%20method.pdf) of the conjugate gradient method.
 - [Python implementation](https://github.com/pero-jolak/studying-scientific-ml/blob/main/Numerical%20linear%20algebra/Conjugate%20gradient%20method/conjugate_gradient_method.ipynb) of the CG method from scratch, compared at the end with the SciPy implementation.
 
 ### Generalized minimal residual method (GMRES)
