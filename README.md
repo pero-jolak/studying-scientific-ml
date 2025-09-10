@@ -1,6 +1,6 @@
 # A learning process of Scientific Machine Learning (SciML)
 
-In this repository I share my learning process of scientific machine learning. Generally, in each section I will derive algorithms and/or solutions step by step, and then implement them in Python.
+In this repository I share my learning process of scientific machine learning.
 
 ## Numerical linear algebra
 
