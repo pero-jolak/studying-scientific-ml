@@ -13,6 +13,8 @@ In this part I implement two iterative methods for solving large, sparse systems
 
 ### Generalized minimal residual method (GMRES)
 
+- [Basics]([https://github.com/pero-jolak/studying-scientific-ml/blob/main/Numerical%20linear%20algebra/Conjugate%20gradient%20method/Conjugate%20gradient%20method.pdf](https://github.com/pero-jolak/studying-scientific-ml/blob/main/Numerical%20linear%20algebra/Generalized%20minimal%20residual%20method/gmres.pdf)) of the GMRES algorithm.
+- [Python implementation]([https://github.com/pero-jolak/studying-scientific-ml/blob/main/Numerical%20linear%20algebra/Conjugate%20gradient%20method/conjugate_gradient_method.ipynb](https://github.com/pero-jolak/studying-scientific-ml/blob/main/Numerical%20linear%20algebra/Generalized%20minimal%20residual%20method/gmres_implementation.ipynb)) of the GMRES method from scratch with restarts. At the end, a SciPy implementation is called to verify the results.
 
 ## Partial differential equations (PDEs)
 
